@@ -89,4 +89,4 @@ replace git.schwanenlied.me/yawning/bsaes.git => github.com/Yawning/bsaes v0.0.0
 // btcsuite/btcutil package requests a newer version.
 replace golang.org/x/crypto => golang.org/x/crypto v0.0.0-20190211182817-74369b46fc67
 
-go 1.12
+go 1.13
